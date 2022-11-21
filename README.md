@@ -31,7 +31,7 @@
 <br>
 
 ## :dart: Proposta
-**Criação de uma plataforma que desenvolva as crianças austistas e que aumente seu interesse em permanecer na escola**
+**Criação de uma plataforma que desenvolva as crianças austistas e que aumente seu interesse em permanecer na escola.**
 </p>
 <br>
 
@@ -45,7 +45,6 @@
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
   </p>
   <br>
-
 ## :calendar: Os Sprints
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
