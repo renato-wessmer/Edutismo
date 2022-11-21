@@ -39,15 +39,19 @@
 
 **:link: Clique no link abaixo para visualizar o site hospedado:**
 >  [http://www.edutismo.com.br](https://sitesegundaentrega.vercel.app/) mudar vídeo
-      
+</p>
+<br> 
+
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
-  <br>
+<P>
+<br>
+
 ## :calendar: Os Sprints
 
 ☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
-
+<P>
 <br> 
 
 ## :computer: Tecnologias Utilizadas
@@ -61,7 +65,7 @@
 * **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
 * **Ferramentas:** Visual Studio Code
 * **Comunicação:** Discord, Whatsapp
-
+<P>
 <br>
 
 ## :mortar_board: Colaboradores 
