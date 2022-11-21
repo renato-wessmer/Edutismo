@@ -50,7 +50,7 @@
 
 ## :calendar: Os Sprints
 
-☑️ SPRINT 1 ([Link da Pasta](https://github.com/Squad56/Douto/tree/main/SPRINT_01)): Concluído :heavy_check_mark:
+☑️ SPRINT 1 ([Link da Pasta](https://github.com/renato-wessmer/Edutismo/tree/main/SPRINT_01): Concluído :heavy_check_mark:
 <P>
 <br> 
 
