@@ -55,7 +55,7 @@
 <br> 
 
 ## :computer: Tecnologias Utilizadas
-<p align="center">
+
       <img src="/Imagens_Geral/tech.JPG" >      
 <p align="center">
 </p>
