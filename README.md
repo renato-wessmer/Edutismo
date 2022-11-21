@@ -35,7 +35,7 @@
 ## :camera_flash: Apresentação da 1ª do Projeto
 
 **:link: Clique no link abaixo para visualizar o projeto:**
->  [http://www.edutismo.com.br](https://youtu.be/o3JS_MIlNgA) mudar vídeo
+>  [https://youtu.be/o3JS_MIlNgA](https://youtu.be/o3JS_MIlNgA)
 </p>
 <br> 
 
