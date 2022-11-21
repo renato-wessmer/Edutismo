@@ -55,7 +55,7 @@
 <br> 
 
 ## :computer: Tecnologias Utilizadas
-
+<p align="center">
       <img src="/Imagens_Geral/tech.JPG" >      
 <p align="center">
 </p>
@@ -69,7 +69,7 @@
 
 ## :mortar_board: Colaboradores 
 
-|Nome|Função|Linkedin|GitHub|Avatar|
+|Nome|
 | -------- |
 |**Amauri Luiz da Silva**|
 |**Jonnas Targino Macedo Conegundes**|
