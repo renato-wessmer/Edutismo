@@ -43,7 +43,6 @@
 ## :hourglass_flowing_sand: Planejamento de Entregas
       
 - [x] [SPRINT 1] - 13/06/2022 a 18/06/2022
-  </p>
   <br>
 ## :calendar: Os Sprints
 
