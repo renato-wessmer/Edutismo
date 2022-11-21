@@ -61,7 +61,7 @@
 </p>
 <br>
 
-* **Front-end:** HTML, CSS, Bootstrap, React.js e JavaScript              
+* **Front-end:** HTML, CSS e JavaScript              
 * **Ferramentas:** Visual Studio Code
 * **Comunicação:** Discord, Whatsapp
 <P>
