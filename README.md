@@ -58,9 +58,9 @@
 </p>
 <br>
 
-* **Front-end:** HTML, CSS e JavaScript              
-* **Ferramentas:** Visual Studio Code
-* **Comunicação:** Discord, Whatsapp
+* **Front-end:** HTML, CSS e JavaScript.              
+* **Ferramentas:** Visual Studio Code.
+* **Comunicação:** Discord, Whatsapp.
 <P>
 <br>
 
