@@ -16,7 +16,7 @@
 </p>
 
 <h1 align="center">
-  1ª fase do projeto desenvolvido no ano de 2022 entre 16 de maio à 01 agosto pelos estudantes do Squad 44 da Recode Pro 2022.
+  1ª fase do projeto desenvolvido no ano de 2022 entre 16 de maio a 01 agosto pelos estudantes do Squad 44 da Recode Pro 2022.
 <h1 align="center">
 <br>
       
