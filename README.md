@@ -36,7 +36,7 @@
 
 **:link: Clique no link abaixo para visualizar o projeto:**
 >  [https://youtu.be/o3JS_MIlNgA](https://youtu.be/o3JS_MIlNgA)
-</p>
+</p>.
 <br> 
 
 ## :hourglass_flowing_sand: Planejamento de Entregas
